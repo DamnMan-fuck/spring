@@ -8,11 +8,11 @@
     <context:component-scan base-package="com.xs"></context:component-scan>
 
     <!--
-    <bean class="com.xs.service.UserService">
+    <bean class="com.service.com.xs.springboot.UserService">
         <property name="userDao" ref="userDao"></property>
     </bean>
 
-    <bean class="com.xs.dao.UserDao" name="userDao"></bean>
+    <bean class="com.dao.com.xs.springboot.UserDao" name="userDao"></bean>
     -->
 
 </beans>
